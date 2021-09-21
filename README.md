@@ -9,7 +9,8 @@
 |   5  | UX Design Fundamentals | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)   | <a href="https://www.coursera.org/account/accomplishments/verify/EXZA234QJVTG">View</a>  |
 |   6  | Introduction To Swift Programming  | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  |<a href="https://www.coursera.org/account/accomplishments/verify/FBSJKP5JRVNC">View</a>  |
 |   7  | Introduction to Programming in Swift 5  | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  |<a href="https://www.coursera.org/account/accomplishments/verify/TE84Z78QN68Y">View</a>  |
-|   8  | C programming  | <img src="https://img.shields.io/badge/Programming_hub-0000D1?style=for-the-badge&logo=&logoColor=white"></img>  | <a href="https://storage.googleapis.com/programminghub/certificate%2F295007.jpg">View</a>  |
-|   9  | Rest API  | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)  | <a href="https://www.hackerrank.com/certificates/565b86d39d4a">View</a>  |
-|   10  | Html Javascript & Bootstrap Certification  | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=black)  | <a href="https://www.udemy.com/certificate/UC-6830cec0-219f-4b69-bcc0-9fad9cb3ecb8/">View</a>  |
-|   11  | .  | .  | .  |
+|   8  | Introduction to HTML5  | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  |<a href="https://www.coursera.org/account/accomplishments/verify/3EEL3SXCLYD6">View</a>  |
+|   9  | C programming  | <img src="https://img.shields.io/badge/Programming_hub-0000D1?style=for-the-badge&logo=&logoColor=white"></img>  | <a href="https://storage.googleapis.com/programminghub/certificate%2F295007.jpg">View</a>  |
+|   10  | Rest API  | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)  | <a href="https://www.hackerrank.com/certificates/565b86d39d4a">View</a>  |
+|   11  | Html Javascript & Bootstrap Certification  | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=black)  | <a href="https://www.udemy.com/certificate/UC-6830cec0-219f-4b69-bcc0-9fad9cb3ecb8/">View</a>  |
+|   12  | .  | .  | .  |
