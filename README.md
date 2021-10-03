@@ -21,7 +21,7 @@
 |   17  | Java Programming: Complete Beginner to Advanced  | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=black)  | <a href="https://www.udemy.com/certificate/UC-bae9ff14-45d0-4185-948f-738900fc096d/">View</a>  |
 |   18  | C programming  | <img src="https://img.shields.io/badge/Programming_hub-0000D1?style=for-the-badge&logo=&logoColor=white"></img>  | <a href="https://storage.googleapis.com/programminghub/certificate%2F295007.jpg">View</a>  |
 |   19  | CSS Fundamentals  | <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=Black"></img>  | <a href="https://www.sololearn.com/Certificate/1023-15325059/jpg/">View</a>  |
-|   20  | HTML Fundamentals  | <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=Black"></img>  | <a href="#">View</a>  |
+|   20  | HTML Fundamentals  | <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=Black"></img>  | <a href="https://www.sololearn.com/Certificate/1014-15325059/jpg/">View</a>  |
 |   21  | CompTIA Network+ (N10-007)  | <img src="https://img.shields.io/badge/CYBRARY-FFFFFF?style=for-the-badge&logo=&logoColor=white"></img>  | <a href="#">View</a>  |
 |   22  | Fundamentals of Cybersecurity Architecture  | <img src="https://img.shields.io/badge/CYBRARY-FFFFFF?style=for-the-badge&logo=&logoColor=white"></img>  | <a href="https://app.cybrary.it/courses/api/certificate/CC-83d76299-c6be-442c-bea5-d079cdffb996/view">View</a>  |
 	
