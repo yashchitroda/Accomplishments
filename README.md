@@ -1,6 +1,6 @@
 # Accomplishments & Certifications !!
 
-|        Sr.no  |         TITLE | Certification Body | Verify Here.          |
+|        Sr.no  |         TITLE | Certification Body | Verify Here          |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
 |   1  | <a href="https://learndigital.withgoogle.com/digitalgarage/course/technical-support-fundamentals">Technical Support Fundamentals</a> |    ![Google](https://img.shields.io/badge/google-db3236?style=for-the-badge&logo=google&logoColor=f4c20d) |  <a href="https://www.coursera.org/account/accomplishments/verify/25GSNC63G5SB">View</a>  |
 |   2  | <a href="https://www.coursera.org/learn/it-security">IT Security: Defense against the digital dark arts</a>  | ![Google](https://img.shields.io/badge/google-db3236?style=for-the-badge&logo=google&logoColor=f4c20d) |  <a href="https://www.coursera.org/account/accomplishments/verify/JR4ERK6JP4CU">View</a>  |
